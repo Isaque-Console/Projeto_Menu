@@ -1,0 +1,7 @@
+C:\Users\55859\Desktop\projeto xml\projeto xml\bin\Debug\projeto xml.exe.config
+C:\Users\55859\Desktop\projeto xml\projeto xml\bin\Debug\projeto xml.exe
+C:\Users\55859\Desktop\projeto xml\projeto xml\bin\Debug\projeto xml.pdb
+C:\Users\55859\Desktop\projeto xml\projeto xml\obj\Debug\projeto xml.csprojAssemblyReference.cache
+C:\Users\55859\Desktop\projeto xml\projeto xml\obj\Debug\projeto xml.csproj.CoreCompileInputs.cache
+C:\Users\55859\Desktop\projeto xml\projeto xml\obj\Debug\projeto xml.exe
+C:\Users\55859\Desktop\projeto xml\projeto xml\obj\Debug\projeto xml.pdb
